@@ -1,6 +1,9 @@
 <p align="center"><h1> ChatGPT FAQs </h1></p>
-Note this is a colelction of information and links. Use at your own risk, we are collecting these from the community and have not verified that they are safe nor do what they say they do.
+Note this is a collection of information and links. Use at your own risk, we are collecting these from the community and have not verified that they are safe nor do what they say they do.
 
+How does ChatGPT work?
+This is a great article on how it works. OpenAI has various technical whitepapers that describe the process but if your not up for reading a technical whitepaper this might be easier to get up to speed if you have interest to start understanding it better.
+https://www.clarifai.com/blog/how-does-chatgpt-work?utm_source=substack&utm_medium=email
 
 OpenAI is a non-profit created in 2014
 

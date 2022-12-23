@@ -18,10 +18,10 @@ CoPilot / ChatGpt trips tricks links
    https://beta.openai.com/playground
    
 ### Prompts and Roles
-You'll hear the term prompts when referring to ChatGPT, what this means is the technique of wording sentences and questions in a manner to get the best response or teasing a response from the AI model in ChatGPT.
+You'll hear the term prompts and prompt engineering when listening to others talking about ChatGPT or the GPT API. What this means is the technique of wording sentences and questions in a manner to get the best response or teasing a response from the AI model in ChatGPT.
 
-Roles
-You will see in the links below that many prompts are started with the sentence "I want you to act like,,," what you are doing here is asking the AI model to work in the taxonomy of the level of knowledge a person in the selected role would have. This is important to get the model to specifically access a body of knowledge related to that role. We are learning here so we will continue to enhance this repo as we learn what works and what doesnt work in prompting.
+#### Roles
+You will see in the links below that many prompts are started with the sentence "I want you to act like,,," what you are doing here is asking the AI model to work in the taxonomy of the level of knowledge a person in the selected role would have. This is important to get the model to specifically access a body of knowledge related to that role. 
 
 This is an example of a typical prompt
 
@@ -33,6 +33,8 @@ Here is the typical make up of a useful prompt to drive a AI session.
 
 2. Identify what types of questions you are going to ask and provide it some guidance of the type of response you are looking for. This is helping the model to focus its reponses in the manner and intent you are execpting.
 3. Start to ask it questions
+
+Note to save time try to type it all together in a paragraph,  the model trys to interpret your question everytime you press enter, if you give it partial direction you have to wait till it responds to the first prompt before you can give it more guidance even if its not complete.
 
 Tips
 It is useful to drill down to a specific role a step at a time if you think that only a specialist would have the answers. For example if you want the model to take on the role of a Doctor but you think a neurosurgeon might be the optimal role to answer, try to use two specific sentences, for example "I want you to act like a doctor. Specifically I am going to ask you questions related to neurosurgery....." We have found in testing that this provides better results but as we learn more and the model gets updates we will fine tune the FAQ.  

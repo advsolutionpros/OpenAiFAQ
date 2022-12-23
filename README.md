@@ -33,3 +33,8 @@ Plugins we find useful to work with ChatGPT
 
 Desktop 
 https://github.com/lencx/ChatGPT
+
+# License
+
+CC-0
+

@@ -3,7 +3,7 @@ Note this is a collection of information and links. Use at your own risk, we are
 
 #### How does ChatGPT work?
 This is a great article on how it works. OpenAI has various technical whitepapers that describe the process but if your not up for reading a technical whitepaper this might be easier to get up to speed if you have interest to start understanding it better.
-https://www.clarifai.com/blog/how-does-chatgpt-work?utm_source=substack&utm_medium=email
+https://www.advsolutionpros.com/what-is-chatgpt-and-what-all-the-excitement-is-about
 
 OpenAI is a non-profit created in 2014
 

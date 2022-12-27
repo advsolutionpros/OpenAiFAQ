@@ -46,7 +46,9 @@ For inspiration access community driven list of prompts to give oyu better resul
 See these link
 https://github.com/f/awesome-chatgpt-prompts
 
+Experimental Search engine that uses ChatGPT for links
 
+https://justbrowse.io/search
 
 Plugins we find useful to work with ChatGPT
 

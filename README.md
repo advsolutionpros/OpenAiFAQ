@@ -48,6 +48,7 @@ See these link
 https://github.com/f/awesome-chatgpt-prompts
 
 Also check out this excellent site that gives you more explanation so you can learn prompting
+
 https://learnprompting.org/docs/basics/intro
 
 Experimental Search engine that uses ChatGPT for links

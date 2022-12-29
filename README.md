@@ -35,6 +35,7 @@ Here is the typical make up of a useful prompt to drive a AI session.
 1. Set a role for the AI model - Help the model to determine what types of questions youa are going by identifying the role the model is to take, in the example above we are asking the model to take on a mathematicians role in the conversation. 
 
 2. Identify what types of questions you are going to ask and provide it some guidance of the type of response you are looking for. This is helping the model to focus its reponses in the manner and intent you are execpting.
+
 3. Start to ask it questions
 
 Note to save time try to type it all together in a paragraph,  the model trys to interpret your question everytime you press enter, if you give it partial direction you have to wait till it responds to the first prompt before you can give it more guidance even if its not complete.
@@ -45,6 +46,9 @@ It is useful to drill down to a specific role a step at a time if you think that
 For inspiration access community driven list of prompts to give oyu better results as others may have already tested and gotten good results.
 See these link
 https://github.com/f/awesome-chatgpt-prompts
+
+Also check out this excellent site that gives you more explanation so you can learn prompting
+https://learnprompting.org/docs/basics/intro
 
 Experimental Search engine that uses ChatGPT for links
 

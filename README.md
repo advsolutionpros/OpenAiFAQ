@@ -51,6 +51,10 @@ Also check out this excellent site that gives you more explanation so you can le
 
 https://learnprompting.org/docs/basics/intro
 
+Also an eBook that guides you on how to prompt
+
+https://fka.gumroad.com/l/art-of-chatgpt-prompting
+
 Experimental Search engine that uses ChatGPT for links
 
 https://justbrowse.io/search

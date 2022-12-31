@@ -51,7 +51,7 @@ Also check out this excellent site that gives you more explanation so you can le
 
 https://learnprompting.org/docs/basics/intro
 
-Also an eBook that guides you on how to prompt
+Also The Art of ChatGPT Prompting eBook
 
 https://fka.gumroad.com/l/art-of-chatgpt-prompting
 
